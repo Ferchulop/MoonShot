@@ -1,4 +1,4 @@
-# Edutainment
+# BetterRest
 BetterRest es una app desarrollada en SwiftUI que utiliza CoreML para recomendar la mejor hora para dormir. Basándose en tu hora de despertar, la cantidad deseada de sueño y el consumo de café, la app calcula automáticamente cuándo deberías acostarte para optimizar tu descanso.
 
 ## Características:
