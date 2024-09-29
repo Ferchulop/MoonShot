@@ -1,13 +1,13 @@
 # Edutainment
-Edutainment es una app educativa desarrollada en SwiftUI que permite a los usuarios practicar tablas de multiplicar de manera interactiva y divertida. Los usuarios pueden seleccionar una tabla de multiplicar y el número de preguntas para comenzar a resolver operaciones.
+BetterRest es una app desarrollada en SwiftUI que utiliza CoreML para recomendar la mejor hora para dormir. Basándose en tu hora de despertar, la cantidad deseada de sueño y el consumo de café, la app calcula automáticamente cuándo deberías acostarte para optimizar tu descanso.
 
 ## Características:
-- Selección de la tabla de multiplicar (del 2 al 12).
-- Elección del número de preguntas a responder (5, 10, 20).
-- Preguntas aleatorias basadas en la tabla seleccionada.
-- Verificación de respuestas con un sistema de puntuación que suma o resta puntos.
-- Visualización de las respuestas correctas después de cada pregunta.
-- Sistema de alertas que notifica el puntaje al terminar el juego.
-- Uso de protocolo Identifiable,cambios de estado con @State,Picker,Stepper,gradientes,alertas para el desarrollo de la app.
-  
-![Simulator Screen Recording - iPhone 16 Pro - 2024-09-29 at 19 39 56](https://github.com/user-attachments/assets/fe15a65c-c406-4807-b7a4-52b0f5e653e9)
+- Ajusta la hora de despertar, las horas de sueño deseadas y el consumo diario de café.
+- Predice la mejor hora para dormir utilizando machine learning.
+- Uso el framework CoreML y su clase MLModelConfiguration para configurar el modelo de machine learning.
+- DateComponents para el manejo de horas y fechas, DatePicker, Stepper, Picker, Form para el diseño de la app
+
+![Simulator Screen Recording - iPhone 16 Pro - 2024-09-29 at 23 15 37](https://github.com/user-attachments/assets/c1b008a1-85d2-4753-8b33-b0870d79332e)
+
+
+
